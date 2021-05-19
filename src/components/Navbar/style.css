@@ -1,0 +1,22 @@
+nav {
+    border-bottom: rgb(115, 115, 243) solid 5px;
+}
+
+.navbar-brand {
+    font-size: 1.75rem;
+    background: rgb(115, 115, 243);
+
+
+}
+
+ul {
+    font-size: 1.25rem;
+}
+
+.navbar-brand:hover {
+    background: #f8f9fa;
+}
+
+li:hover {
+    background: rgb(115, 115, 243);
+}
