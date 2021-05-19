@@ -27,6 +27,10 @@ const Navbar = () => {
                                 Contact
                             </Link>
                     </li>
+                    <li class="nav-item active">
+                    <a class="nav-link" href="images/KBlack_DEV_Resume.pdf" download="Kblack_Resume"> Resume
+                        <span><img src="images/Download icon.png" alt="download icon"  /></span></a>
+                </li>
                 </ul>
             </div>
         </nav>

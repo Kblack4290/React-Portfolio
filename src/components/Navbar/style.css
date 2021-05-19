@@ -20,3 +20,7 @@ ul {
 li:hover {
     background: rgb(115, 115, 243);
 }
+
+img {
+    width:16px;
+}

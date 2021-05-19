@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Haggle",
+        "projectUrl": "https://haggle-proj.herokuapp.com/",
+        "githubUrl": "https://github.com/domrafiti/ProjectTwoHaggle"
+    },
+    {
+        "title": "Concoctions",
+        "projectUrl": "https://glchavez.github.io/Project-One/",
+        "githubUrl": "https://github.com/glchavez/Project-One"
+    },
+    {
+        "title": "Nerd Out",
+        "projectUrl": "https://protected-lowlands-63453.herokuapp.com/",
+        "githubUrl": "https://github.com/Kblack4290/Nerd-Out"
+    },
+    {
+        "title": "Password Generator",
+        "projectUrl": "https://kblack4290.github.io/Password-Generator/",
+        "githubUrl": "https://github.com/Kblack4290/Password-Generator"
+    },
+    {
+        "title": "Code Quiz",
+        "projectUrl": "https://kblack4290.github.io/The-Code-Quiz/",
+        "githubUrl": "https://github.com/Kblack4290/The-Code-Quiz/"
+    },
+    {
+        "title": "Workday Planner",
+        "projectUrl": "https://kblack4290.github.io/Work-Day-Planner/",
+        "githubUrl": "https://github.com/Kblack4290/Work-Day-Planner"
+    }
+]
