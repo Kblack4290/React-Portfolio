@@ -1,8 +1,9 @@
 import React from 'react'
+import './style.css'
 
 const Footer = () => {
     return (
-        <footer class="footer">
+        <footer className="footer">
 
             <a href="https://www.linkedin.com/in/keith-black-3b702a14a/" target="_blank">
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-linkedin"
