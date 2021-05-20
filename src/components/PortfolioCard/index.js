@@ -1,10 +1,11 @@
 import React from 'react'
+import './style.css'
 const Card = (props) => {
     return (
         
 
-
-            <div className="row">
+            
+            
                 <div className="col-xs-12 col-sm-12 col-md-6 col-lg-4">
                     <div className="card" style={{width: "18rem"}}>
                         <img src={props.image} class="card-img-top" alt=" haggle screenshot" />
@@ -16,7 +17,7 @@ const Card = (props) => {
                         </div>
                     </div>
                 </div>
-            </div>
+    
         
 
     )

@@ -3,8 +3,8 @@ import Navbar from './components/Navbar/index'
 import Footer from './components/Footer/index'
 import About from './pages/About'
 import Contact from './pages/Contact'
+import Portfolio from './pages/Portfolio';
 import './App.css';
-import Portfolio from "./pages/Portfolio";
 
 
 function App() {
