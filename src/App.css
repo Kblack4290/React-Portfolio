@@ -13,3 +13,51 @@ body {
   background-size: cover;
 
 }
+
+.container {
+  background: #f8f9fa;
+  margin-top: 100px;
+  margin-bottom: 20px;
+  padding: 20px;
+  border: #eeeeee 5px solid;
+}
+
+.about-content {
+  font-family: Roboto;
+
+}
+
+#about-img {
+  border: #eeeeee solid 5px;
+  margin-right: 20px;
+  float: left;
+  width: 33%;
+}
+
+
+/* About */
+
+@media screen and (max-width:425px) {
+
+  #about-img {
+      float: none;
+  }
+
+  html,
+  Body {
+      background-image: none;
+  }
+
+  .container {
+
+      margin-top: 0;
+  }
+}
+
+@media screen and (max-width: 320px) {
+
+  img {
+      display: none;
+  }
+
+}

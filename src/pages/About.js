@@ -1,4 +1,5 @@
 import React from 'react'
+import PikesPeak from '../assets/images/Peaks.jpg'
 
 const About = () => {
     return (
@@ -8,8 +9,8 @@ const About = () => {
                     <h1 className="header"> About Me</h1>
                     <hr></hr>
 
-                    <div class="content">
-                        <img src="images/Pikes Peak 300x400.jpg" alt="At Pikes Peak Colorado" id="about-img" />
+                    <div className="about-content">
+                        <img src={PikesPeak} alt="At Pikes Peak Colorado" id="about-img" />
 
                         <p>What is going on, my name is Keith! I am originally from the Hudson Valley in New York but moved to
                         Denver, Colorado about 4 years ago with my fiancé. We never visited Colorado before but knew that we
