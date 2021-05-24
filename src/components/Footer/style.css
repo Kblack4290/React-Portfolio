@@ -12,3 +12,10 @@
     border-top: rgb(115, 115, 243) solid 5px;
     font-size: small;
 }
+
+.fa {
+    font-size: 20px;
+    margin-left: 5px;
+    position: relative;
+    top: 4px;
+}
