@@ -12,8 +12,8 @@ const Card = (props) => {
                         <div className="card-body">
                             <h5 className="card-title">{props.title}</h5>
                             <hr></hr>
-                            <a href= {props.githubUrl} className="btn btn-primary" target="_blank">Repo</a>
-                            <a href= {props.projectUrl} className="btn btn-primary" target="_blank">{props.title}</a>
+                            <a href= {props.githubUrl} className="btn btn-primary" target="_blank" rel="noreferrer">Repo</a>
+                            <a href= {props.projectUrl} className="btn btn-primary" target="_blank" rel="noreferrer">{props.title}</a>
                         </div>
                     </div>
                 </div>

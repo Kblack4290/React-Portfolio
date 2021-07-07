@@ -12,23 +12,20 @@ const About = () => {
                     <div className="about-content">
                         <img src={PikesPeak} alt="At Pikes Peak Colorado" id="about-img" />
 
-                        <p>What is going on, my name is Keith! I am originally from the Hudson Valley in New York but moved to
-                        Denver, Colorado about 4 years ago with my fiancé. We never visited Colorado before but knew that we
-                        wanted a change. We saved up some money selling antiques on eBay. Once we achieved our goal, we packed
-                        up our car and drove 27 hours in 2 days to Denver!</p>
+                        <p>Hello, I am Keith, I am a Software Developer with a background in management and business development.
+                            The quality of skills that I have learned in my past professions are proving to be a great benefit to my growth as a Developer.
+                            I am always searching for new ways to improve my programming skills by keeping up to date with new tools and continuing to practice my craft. </p>
 
-                        <p>My favorite things about Colorado is the weather, a good balance of City and outdoor life, going to
-                        see professional sports, and being able to vote by mail. </p>
+                        <p>I find knowledge to be exciting which is my favorite aspect of programming.
+                            I always look forward to learning new techniques,  languages, tools, or technologies that I can use for a project.
+                            The challenges that come with continuous learning can be frustrating at first but I get a huge sense of fulfillment once I finally find a solution.
+                            Another aspect of programming that I really enjoy that stands out from other professions is the community. There is always someone who is willing to help and grow with you whether that is at a place of business or on a community forum like StackOverflow or Reddit.
+                            . </p>
 
-                        <p>With the support of my loved ones, I was able to start a career in Property Management. After a
-                        year of employment, I was able to purchase my first home and begin setting roots. I am still working
-                            as a Property Manager, but I have decided to take the opportunity to pursue a career change to Coding.</p>
-
-                        <p>My fiancé saw that Denver University was offering a 6-month coding boot-camp. I decide to enroll in the
-                        program, and it has been one of the better decisions I have made so far. My favorite aspects about
-                        coding are the creativity, the challenge, and the satisfaction I receive when solving a problem or
-                        completing a project. I am quickly realizing how much I am enjoying coding. I am
-                            looking forward to putting my skill to use in a new career! Look at what I have accomplished so far!</p>
+                        <p>Outside of programming, I like to explore the City of Denver’s restaurants, go to sporting events, and play video games with friends.
+                            I also have a fond love for Comedy, especially stand-up comedy.
+                            I really enjoy catching some of my favorite acts who come through Denver and look forward to new specials.
+                            Feel free to reach out and learn more about me!</p>
 
                     </div>
                 </div>
